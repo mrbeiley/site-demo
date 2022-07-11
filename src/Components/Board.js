@@ -1,5 +1,3 @@
-import HorizontalLine from "./HorizontalLine";
-import VerticalLine from "./VerticalLine";
 import Square from "./Square";
 
 function Board() {
